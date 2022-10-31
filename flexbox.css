@@ -5,7 +5,7 @@ body {
 }
 #sidebar {
     width: 200px;
-    height: 288px;
+    height: 100vh;
     background-color: aqua;
     
 }
